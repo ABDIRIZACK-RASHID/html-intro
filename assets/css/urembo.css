@@ -1,0 +1,19 @@
+table{
+
+  width: 100%;
+  font-family: "DejaVu Serif";
+  border-collapse: collapse;
+}
+td,th{
+  border: 2px solid red;
+  padding: 10px;
+}
+th{color: green}
+td{color: black;
+}
+h2{text-align: center}
+
+table {background: url("../images/image6.jpeg")
+    /*no-repeat center fixed;
+  background-size: cover; */
+}

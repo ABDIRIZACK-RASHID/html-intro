@@ -1,0 +1,60 @@
+.fruits{
+  border: 2px red  solid;
+  background-color: aqua;
+  text-align: center;
+  margin: 20px;
+  padding: 20px;
+  font-family: aakar;
+}
+.cars{
+  border: 3px blue dotted;
+  background-color: #ea104d;
+  margin: 10px;
+  padding: 10px;
+  font-family: C059;
+  text-align: center;
+}
+.FRUITS{
+  border: black 5px dashed;
+  background-color: green;
+  margin: 40px;
+  padding: 40px;
+  font-family: Dialog;
+  text-align: center;
+}
+ img{
+  width: 50px;
+  height: 50px;
+
+;
+
+}
+ #computers{
+  color: red;
+   background-color: blue;
+   border: yellow 3px solid;
+   padding: 5px;
+   margin: 10px;
+ }
+ #home{
+   color: orange;
+   background-color: yellowgreen;
+   border: blue 4px solid;
+   padding: 5px;
+   margin: 5px;
+ }
+ form{
+   background-color: aqua;
+ }
+input{
+position: static;
+  margin: 20px;
+  border: green 3px solid;
+
+
+}
+label{
+  font-family: "Century Schoolbook L";
+  font-style: italic;
+  font-size: larger;
+}
